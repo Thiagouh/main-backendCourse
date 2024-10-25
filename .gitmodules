@@ -1,0 +1,3 @@
+[submodule "Backend-Course"]
+	path = Backend-Course
+	url = git@github.com:Thiagouh/Backend-Course.git
