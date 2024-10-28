@@ -1,3 +1,6 @@
 [submodule "Backend-Course"]
 	path = Backend-Course
 	url = git@github.com:Thiagouh/Backend-Course.git
+[submodule "mongoMongoose-Course"]
+	path = mongoMongoose-Course
+	url = git@github.com:Thiagouh/mongoMongoose-Course.git
